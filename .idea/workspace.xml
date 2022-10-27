@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e676e38-2087-4796-a88e-47bc6fd92473" name="Changes" comment="">
+    <list default="true" id="3e676e38-2087-4796-a88e-47bc6fd92473" name="Changes" comment="Adjusted code to properly include State switching and functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/de/uni/koeln/se/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/de/uni/koeln/se/state/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/state/Elevator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/de/uni/koeln/se/state/Elv_States.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/state/Elv_States.java" afterDir="false" />
     </list>
@@ -31,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +48,16 @@
       <updated>1666866499706</updated>
       <workItem from="1666866501037" duration="52000" />
       <workItem from="1666866661959" duration="1107000" />
+      <workItem from="1666867893335" duration="3042000" />
     </task>
+    <task id="LOCAL-00001" summary="Adds first implementation. Not so nice code atm">
+      <created>1666868085027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666868085027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +73,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adds first implementation. Not so nice code atm" />
+    <MESSAGE value="Adjusted code to properly include State switching and functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted code to properly include State switching and functions" />
   </component>
 </project>

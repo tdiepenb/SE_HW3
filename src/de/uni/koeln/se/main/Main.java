@@ -3,7 +3,6 @@ package de.uni.koeln.se.main;
 import java.util.Scanner;
 
 import de.uni.koeln.se.state.Elevator;
-import de.uni.koeln.se.state.Elv_States;
 
 public class Main {
     public static void main(String[] args) {
