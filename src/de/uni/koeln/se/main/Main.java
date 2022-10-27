@@ -1,3 +1,5 @@
+package de.uni.koeln.se.main;
+
 import java.util.Scanner;
 
 import de.uni.koeln.se.state.Elevator;
